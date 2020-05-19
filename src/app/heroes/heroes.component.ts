@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 
+// Importing the hero interface. 
 import { Hero } from '../hero';
 
 // the component generator made three metadata properties for the component below.
