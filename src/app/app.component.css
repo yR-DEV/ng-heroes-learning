@@ -1,4 +1,4 @@
-/* Application-wide Styles */
+/* Application-wide Styles because they are in the main compoment file */
 h1 {
     color: #369;
     font-family: Arial, Helvetica, sans-serif;
@@ -16,7 +16,7 @@ h1 {
     color: #333;
     font-family: Cambria, Georgia;
   }
-  /* everywhere else */
+  /* everywhere else indicated by a '*' */
   * {
     font-family: Arial, Helvetica, sans-serif;
   }
